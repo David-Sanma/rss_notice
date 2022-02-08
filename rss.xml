@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Channel RSS</title>
+    <link></link>
+    <description>Noticias de informática</description>
+    <language>es</language>
+    <item>
+      <title>Not1</title>
+      <link></link>
+      <description>Info1</description>
+      <image>
+        <url></url>
+      </image>
+    </item>
+    <item>
+      <title>Not2</title>
+      <link></link>
+      <description>Info2</description>
+    </item>
+    <item>
+      <title>Not3</title>
+      <link></link>
+      <description>Info3</description>
+    </item>
+  </channel>
+</rss>
