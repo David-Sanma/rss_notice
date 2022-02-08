@@ -5,7 +5,7 @@
     <link>https://david-sanma.github.io/webRss/</link>
     <description>Channel Rss - Noticias infoFeed</description>
     <language>es</language>
-    <atom:link href="https://david-sanma.github.io/rss_notice/" rel="self" type="aplicación/rss+xml" />
+    <atom:link href="https://david-sanma.github.io/rss_notice/" rel="self" type="application/rss+xml" />
     <item>
       <title>Noticia es.diario</title>
       <link>https://www.eldiario.es/tecnologia/softbank-cancela-venta-firma-britanica-chips-arm-nvidia_1_8726642.html</link>
