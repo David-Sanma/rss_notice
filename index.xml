@@ -1,27 +1,24 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Channel RSS</title>
-    <link></link>
-    <description>Noticias de informática</description>
+    <title>Noticias de informática</title>
+    <link>https://david-sanma.github.io/webRss/</link>
+    <description>Channel Rss - Noticias infoFeed</description>
     <language>es</language>
     <item>
-      <title>Not1</title>
-      <link></link>
-      <description>Info1</description>
-      <image>
-        <url></url>
-      </image>
+      <title>Noticia es.diario</title>
+      <link>https://www.eldiario.es/tecnologia/softbank-cancela-venta-firma-britanica-chips-arm-nvidia_1_8726642.html</link>
+      <description>Softbank cancela la venta de ARM a Nvidia</description>
     </item>
     <item>
-      <title>Not2</title>
-      <link></link>
-      <description>Info2</description>
+      <title>Videojuegos abc</title>
+      <link>https://www.abc.es/tecnologia/videojuegos/abci-como-videojuego-conseguido-convertirse-negocio-cultural-y-tecnologico-momento-202202080048_noticia.html?ref=https%3A%2F%2Fwww.abc.es%2Ftecnologia%2F</link>
+      <description>Evolución de los videojuegos</description>
     </item>
     <item>
-      <title>Not3</title>
-      <link></link>
-      <description>Info3</description>
+      <title>Noticias el pais</title>
+      <link>https://elpais.com/tecnologia/</link>
+      <description>Noticias generales sobre tecnología</description>
     </item>
   </channel>
 </rss>
